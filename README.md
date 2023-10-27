@@ -1,2 +1,2 @@
-# Medical-Image-Computing
-Assignments for Medical Image Computing
+# Medical Image Computing
+Assignments for Graduate course Medical Image Computing (CS)
